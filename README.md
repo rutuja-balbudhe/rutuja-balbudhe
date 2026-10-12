@@ -1,67 +1,114 @@
-![Cyberpunk Banner](https://capsule-render.vercel.app/api?type=waving&color=0:02080d,50:064e3b,100:00f5c8&height=220&section=header&text=RUTUJA%20BALBUDHE&fontSize=40&fontColor=e2f5ff&fontAlignY=38&desc=EXPLORE%20%2F%20BUILD%20%2F%20SECURE%20%2F%20GROW&descSize=15&descAlignY=60)
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,50:3730A3,100:38BDF8&text=RUTUJA%20BALBUDHE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Linux%20%7C%20Python&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-### `root@rutuja:~$ whoami`
+<a href="https://github.com/rutuja-balbudhe">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=root%40rutuja%3A~%24+whoami;Aspiring+Cybersecurity+Engineer;Learning+by+Building+%3E+Learning+by+Watching;Exploring+Systems.+Securing+What+Matters." alt="Typing SVG"/>
+</a>
 
-**Aspiring Cybersecurity Engineer | Computer Science Student**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00F5C8&center=true&vCenter=true&width=650&lines=Learning+to+secure+systems;Exploring+Linux+%26+networking;Building+practical+security+projects)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-00f5c8?style=for-the-badge&logo=github&logoColor=white&labelColor=02080d)](https://github.com/rutuja-balbudhe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-62d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02080d)](https://www.linkedin.com/in/rutuja-b-373017334/)
+<img src="https://img.shields.io/badge/FOCUS-System%20Security-3730A3?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MINDSET-Always%20Learning-075985?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## `01 // ABOUT ME`
 
-I'm a Computer Science engineering student exploring cybersecurity through hands-on labs, Linux, networking, and Python.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My focus is on understanding how systems work, investigating security weaknesses in authorized environments, and building useful tools.
+### Hello, world. I'm Rutuja.
 
-**Current mission**
-- Strengthen Linux and networking fundamentals.
-- Explore Docker and system security.
-- Learn web application security.
-- Build and document Python projects.
+I'm a Computer Science engineering student exploring the world of **cybersecurity, Linux, networking, and Python**.
+
+I enjoy understanding how systems work, investigating security weaknesses in authorized environments, and building tools that solve practical problems.
+
+Rather than just collecting tools, my goal is to understand the technology behind them.
+
+**Currently working on:**
+
+- Strengthening Linux and networking fundamentals
+- Exploring Docker and system security
+- Learning web application security
+- Building and documenting Python projects
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-## `02 // QUICK INFO`
+### `system.info`
 
-```text
-USER    : rutuja-balbudhe
-ROLE    : Security Learner
-OS      : Linux / Kali Linux
-FOCUS   : System Security
-LANG    : Python / SQL
-STATUS  : Learning by Building
+```yaml
+user: rutuja-balbudhe
+role: Security Learner
+environment:
+  - Linux
+  - Kali Linux
+primary_language: Python
+also_exploring:
+  - SQL
+  - Docker
+interests:
+  - System Security
+  - Web Security
+  - Networking
+approach: Learn by Building
 ```
 
 </td>
 </tr>
 </table>
 
-## `03 // CURRENT FOCUS`
+---
+
+## `02 // CURRENT FOCUS`
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Exploring-00f5c8?style=flat-square&labelColor=07131c)
-![Networking](https://img.shields.io/badge/Networking-Learning-62d9ff?style=flat-square&labelColor=07131c)
-![Docker](https://img.shields.io/badge/Docker-Hardening-00f5c8?style=flat-square&labelColor=07131c)
-![Web Security](https://img.shields.io/badge/Web_Security-Studying-62d9ff?style=flat-square&labelColor=07131c)
-![Python](https://img.shields.io/badge/Python-Building-00f5c8?style=flat-square&labelColor=07131c)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/01-38BDF8?style=flat-square"/> Linux & Networking
+
+Understanding permissions, processes, network traffic, ports, and system administration.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/02-A78BFA?style=flat-square"/> Web Security
+
+Exploring HTTP, common vulnerabilities, browser security, and authorized testing labs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/03-38BDF8?style=flat-square"/> Docker Security
+
+Learning container isolation, hardening, network configuration, and traffic inspection.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/04-A78BFA?style=flat-square"/> Python Projects
+
+Writing scripts, automating repetitive tasks, and developing practical security tools.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## `04 // FEATURED PROJECTS`
+---
+
+## `03 // FEATURED PROJECTS`
 
 <table>
 <tr>
@@ -69,55 +116,96 @@ STATUS  : Learning by Building
 
 ### ⬡ Docker Security Lab
 
-A practical lab exploring Docker hardening, network isolation, and traffic inspection.
+<img src="https://img.shields.io/badge/SECURITY-LAB-3730A3?style=flat-square"/>
 
-**Tech:** Docker · Linux · Security
+A practical environment for exploring container hardening, network isolation, and traffic inspection.
 
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-00f5c8?style=for-the-badge&labelColor=07131c)](https://github.com/rutuja-balbudhe/docker-security-lab)
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,bash&theme=dark" height="36"/>
+
+**Goal:** Understand how containerized environments can be secured.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⌘ DeepduckAI Landing Page
 
-A static web development project built with HTML and CSS.
+<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-075985?style=flat-square"/>
 
-**Tech:** HTML · CSS · Web Development
+A static web development project focused on page structure, styling, and frontend fundamentals.
 
-[![Open repository](https://img.shields.io/badge/VIEW_PROJECT-62d9ff?style=for-the-badge&labelColor=07131c)](https://github.com/rutuja-balbudhe/DeepduckAI_LandingPage_Task1)
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="36"/>
+
+**Goal:** Build clean, responsive web interfaces.
 
 </td>
 </tr>
 </table>
 
-## `05 // TECH STACK`
+---
+
+## `04 // TECH STACK`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Languages
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+
+### Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,bash,git,github,vscode&theme=dark" />
+
+### Web Fundamentals
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-EXPANDING%20MY%20SKILLS-312E81?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/PHILOSOPHY-FUNDAMENTALS%20FIRST-075985?style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
-## `06 // PRINCIPLES`
+---
+
+## `05 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rutuja-balbudhe&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja-balbudhe&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" width="41%" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rutuja-balbudhe&hide_border=true&background=0B1020&ring=A78BFA&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `06 // MY PRINCIPLES`
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 
+<img src="https://img.shields.io/badge/01-38BDF8?style=for-the-badge"/>
+
 **LEARN**
 
-Understand fundamentals.
+Understand the fundamentals.
 
 </td>
 <td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/02-A78BFA?style=for-the-badge"/>
 
 **PRACTICE**
 
@@ -126,32 +214,44 @@ Use authorized labs.
 </td>
 <td align="center" width="25%">
 
+<img src="https://img.shields.io/badge/03-38BDF8?style=for-the-badge"/>
+
 **DOCUMENT**
 
-Record findings.
+Record findings and lessons.
 
 </td>
 <td align="center" width="25%">
 
+<img src="https://img.shields.io/badge/04-A78BFA?style=for-the-badge"/>
+
 **BUILD**
 
-Improve consistently.
+Improve through projects.
 
 </td>
 </tr>
 </table>
 
+</div>
+
+---
+
 ## `07 // CONNECT`
 
 <div align="center">
 
-**Interested in cybersecurity, practical learning, and building useful things.**
+Interested in cybersecurity, practical learning, and building useful things.
 
-[![GitHub](https://img.shields.io/badge/Explore_my_work-GitHub-00f5c8?style=for-the-badge&logo=github&logoColor=white&labelColor=02080d)](https://github.com/rutuja-balbudhe)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-62d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02080d)](https://www.linkedin.com/in/rutuja-b-373017334/)
+<a href="https://github.com/rutuja-balbudhe">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-3730A3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-*Better systems. Safer tomorrow.*
+<br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5c8,50:064e3b,100:02080d&height=110&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:38BDF8,50:3730A3,100:0B1020"/>
+
+<sub><code>Better systems. Safer tomorrow.</code></sub>
 
 </div>
+
